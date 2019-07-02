@@ -23,4 +23,4 @@ setInterval(() => {
       }
     }
   });
-}, process.env.INTERVAL)
+}, process.env.INTERVAL);
