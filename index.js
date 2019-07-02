@@ -1,4 +1,4 @@
-isRunning = require('./lib/is-running');
+const isRunning = require('./lib/is-running');
 
 isRunning('', (status) => {
   console.log(status);
