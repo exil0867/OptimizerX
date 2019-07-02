@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ExillustX/gamingOptimizer/issues"
   },
-  "homepage": "https://github.com/ExillustX/gamingOptimizer#readme"
+  "homepage": "https://github.com/ExillustX/gamingOptimizer#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.16",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
 }
