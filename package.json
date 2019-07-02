@@ -1,7 +1,7 @@
 {
-  "name": "gamingoptimizer",
+  "name": "optimizerx",
   "version": "1.0.0",
-  "description": "A Node.js tool that automatically optimizes my computer/internet performance when playing games (By programmitically enabling 'MAC Restrict Mode' in the Router and stopping any resource-heavy app)",
+  "description": "A Node.js tool that automatically optimizes internet/computer performance when specific system process is running (By programmatically enabling 'MAC Restrict Mode' in the Router and stopping any resource-heavy app). Which will free up the Memory ,CPU usage & Optimize the connection",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExillustX/gamingOptimizer.git"
+    "url": "git+https://github.com/ExillustX/OptimizerX.git"
   },
   "author": "ExillustX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ExillustX/gamingOptimizer/issues"
+    "url": "https://github.com/ExillustX/OptimizerX/issues"
   },
-  "homepage": "https://github.com/ExillustX/gamingOptimizer#readme",
+  "homepage": "https://github.com/ExillustX/OptimizerX#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
     "selenium-webdriver": "^4.0.0-alpha.4"
